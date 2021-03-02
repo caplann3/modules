@@ -33,5 +33,5 @@ variable "min_size" {
 variable "max_size" {
   description = "Max number of EC2 Instances in ASG"
   type = number
-  default = 10
+  default = 6
 }
